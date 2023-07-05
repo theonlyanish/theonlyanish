@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software, Mobile and Web Development.
 - 🌱 I’m currently developing CMS architecture application
 - 💞️ I’m looking to collaborate on web, mobile, desktop apps or front-end development
-- 📫 How to reach me - [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/anishkapse/))
+- 📫 How to reach me - [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([[your-linkedin-url](https://www.linkedin.com/in/anishkapse/)](https://www.linkedin.com/in/anishkapse/))
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theonlyanish&theme=dark&background=000000)](https://git.io/streak-stats)
 
