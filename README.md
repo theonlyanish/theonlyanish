@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anish Kapse
 - 👀 I’m interested in Software, Mobile and Web Development.
-- 🌱 I’m currently developing CMS architecture application
+- 🌱 I’m currently developing a developer blog platform
 - 💞️ I’m looking to collaborate on web, mobile, desktop apps or front-end development
 - 📫 How to reach me - kapseanish@gmail.com
 
