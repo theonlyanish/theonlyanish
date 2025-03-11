@@ -5,7 +5,7 @@
 - 📫 How to reach me - kapseanish@gmail.com
 
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=theonlyanish&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=theonlyanish&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyanish&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
