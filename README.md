@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=theonlyanish&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-[![Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=spectrewolf8&theme=dark&stats=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=theonlyanish&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
