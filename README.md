@@ -5,9 +5,12 @@
 - 📫 How to reach me - kapseanish@gmail.com
 
 
+<!---
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=theonlyanish&theme=vision-friendly-dark)](https://git.io/streak-stats)
+--->
 
-[![Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=theonlyanish&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=theonlyanish&year=2025&width=1200&height=700&stats=true&credit=true&theme=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
